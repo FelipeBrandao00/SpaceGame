@@ -428,10 +428,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpaceShip
       objectReference: {fileID: 0}
-    - target: {fileID: 4939240659578157122, guid: 1bac4b4394934ec43aefc81997a40133, type: 3}
-      propertyPath: colider
-      value: 
-      objectReference: {fileID: 650665524}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

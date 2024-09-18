@@ -98,5 +98,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ProjectilePrefab: {fileID: -6928227228482126485, guid: 8fce8ca571ccf3d49b3a5ae331c46d52, type: 3}
-  colider: {fileID: 0}
   speed: 5
+  nave: {fileID: 21300000, guid: c5124cd79305dae4983fb188d7f428df, type: 3}
